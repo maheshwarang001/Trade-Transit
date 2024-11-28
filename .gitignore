@@ -1,0 +1,9 @@
+backend/node_modules/
+android_app/.gradle/
+android_app/build/
+android_app/local.properties
+android_app/*.iml
+android_app/.idea/
+android_app/.android/
+
+
